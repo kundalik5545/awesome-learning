@@ -287,6 +287,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Dan Ashby's Blog](https://danashby.co.uk/)
 - [Google Testing Blog](https://testing.googleblog.com/)
 - [LambdaTest Blog](https://www.lambdatest.com/blog/)
+- [Qa Playground](https://www.qaplayground.com)
 - [LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/)
 - [pCloudy Blog ](https://www.pcloudy.com/blog/)
 - [VTest Software Corp Blog](https://www.vtestcorp.com/blog/)
